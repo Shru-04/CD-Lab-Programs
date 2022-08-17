@@ -1,0 +1,11 @@
+//hi there dfsdfsdgdsgsd dfs
+
+int main(){
+	int x,y,z; /* These are called 
+			VARIABLES
+			Lets assignment them # */
+	x=1;y=2;z=3; //Done
+	printf("%d%d",x,y+z);
+	return 0;
+	// Bye
+}
